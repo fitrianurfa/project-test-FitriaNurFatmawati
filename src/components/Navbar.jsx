@@ -2,15 +2,12 @@
 import './navbar.css'
 
 function Navbar () {
-
-
   return(
     <div className="navigasion">
     <nav className="dropdownmenu">
     <div className="nav-logo">
       Company
-    </div>
-      
+    </div>     
      <ul>
       <li><a href="">ABOUT</a></li>
       <li><a href="">OUR WORK</a>
